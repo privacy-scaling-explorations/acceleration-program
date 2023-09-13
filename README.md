@@ -49,7 +49,7 @@ For the operation of this program, we will primarily utilize a Github repository
 
 # Grant Life Cycle (process flow)
 
-![截圖 2023-08-28 下午7.42.11.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a6d8a6ba-fa6f-464d-8042-2956bac41dc2/%E6%88%AA%E5%9C%96_2023-08-28_%E4%B8%8B%E5%8D%887.42.11.png)
+<img width="1152" alt="截圖 2023-08-28 下午7 42 11" src="https://github.com/privacy-scaling-explorations/acceleration-program/assets/35304302/89f70f6d-90a9-4370-895c-54684c4486f6">
 
 The diagram above illustrates the general life cycle of a grant from the formation of an idea as an RFP all the way to the execution of an initial milestone. Some of these details are clarified further here:
 
