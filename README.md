@@ -1,4 +1,4 @@
-# acceleration-program
+# ZK Talent Acceleration Program
 # Purpose
 
 The purpose of this grant program is to help enable the potential of those who recently started their journey in the world of ZKPs. Specifically, our goal is to:
