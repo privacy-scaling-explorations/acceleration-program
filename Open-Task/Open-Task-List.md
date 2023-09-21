@@ -136,3 +136,17 @@ Update stare of repo via continuous integration
 - Tag: Tooling
 - Upstream Issue (URL): N/A
 - Submission (Update) Date: 2023/09/21
+
+### halo2 soundness bugs examples
+- Description: Create a repository with small halo2 circuits where each one has a different soundness bug.  Add exploiting example for each.  This can be useful to:
+Train people to understand the bugs to avoid them
+Train people to spot the bugs. Refer to this url:
+https://github.com/0xPARC/zk-bug-tracker#common-vulnerabilities-header
+- Expected outcome:
+- Recommended Skills: halo2
+- Grant Liason(s): ed255
+- Expected project size: (Hours)
+- Difficulty: (Easy, Medium, or Hard)
+- Tag: Tooling
+- Upstream Issue (URL): N/A
+- Submission (Update) Date: 2023/09/21
