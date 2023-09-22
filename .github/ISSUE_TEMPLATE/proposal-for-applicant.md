@@ -1,5 +1,5 @@
 ---
-name: Proposal
+name: Proposal for Applicant
 about: Raise a proposal to open task
 title: ''
 labels: Proposal
