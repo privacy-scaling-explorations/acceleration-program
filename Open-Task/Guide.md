@@ -44,7 +44,7 @@ The diagram above illustrates the general life cycle of a program application fr
         3. Other. We might have to consider these proposals on a case-by-case basis.
             1. If all the applicants meet the criteria, we might consider grant multiple applicants.
 3. **Grant Liaison Matching**
-    1. Internally we maintain an liaison availability list and their domain expertise along side of their names. EcoDev will work with leadership and project leads to determine the appropriate candidate to be an evaluator.
+    1. Internally we maintain an grant liaison availability list and their domain expertise along side of their names. EcoDev will work with leadership and project leads to determine the appropriate candidate to be an evaluator.
 4. **Milestone Completion and Funding**
     1. Grantee will receive a small amount of funding after the completion of the first milestone.
     2. Following milestones will be awarded larger amounts.
