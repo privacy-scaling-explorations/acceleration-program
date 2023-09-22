@@ -18,7 +18,7 @@ Ideas for grants are submitted as Open Task into a Github repository by Barry or
 
 ## How to Get Started
 
-1. See the [Request for Proposal List](../Request-for-Proposal/Request-for-Proposal-List.md)
+1. See the [Open Task List](../Open-Task/Open-Task-List.md)
 2. Apply on GitHub through sending issue and follow the template.
 3. Wait for grant liaison pick up the application and review
 4. Submit and update your deliverable in the dedicated form on every milestones
@@ -28,7 +28,7 @@ Ideas for grants are submitted as Open Task into a Github repository by Barry or
 
 ## Application Life Cycle
 
-![flow.png](../Image/flow.png)
+![lifecycle.png](../Image/lifecycle.png)
 
 The diagram above illustrates the general life cycle of a program application from the formation of an idea as an Open Task all the way to the execution of an initial milestone. Some of these details are clarified further here:
 
