@@ -14,11 +14,11 @@ The purpose of this grant program is to help enable the potential of those who r
 
 ## Program Summary
 
-Ideas for grants are submitted as Open Task into a Github repository by Barry or PSE Team leads. Potential applicant will then submit proposals to be evaluated by “Grant Liaisons”. A grant liaison will not only evaluating the initial proposal, but will also be supervising milestone completion, approving disbursement of funds, ongoing tracking/advising and general oversight of an awarded grant.
+Ideas for grants are submitted as Open Task RFP into a Github repository by Barry or PSE Team leads. Potential applicant will then submit proposals to be evaluated by “Grant Liaisons”. A grant liaison will not only evaluating the initial proposal, but will also be supervising milestone completion, approving disbursement of funds, ongoing tracking/advising and general oversight of an awarded grant.
 
 ## How to Get Started
 
-1. See the [Open Task List](../Open-Task/Open-Task-List.md)
+1. See the [Open Task RFP List](../Open-Task-RFP/Open-Task-RFP-List.md)
 2. Apply on GitHub through sending issue and follow the template.
 3. Wait for grant liaison pick up the application and review
 4. Submit and update your deliverable in the dedicated form on every milestones
@@ -28,17 +28,17 @@ Ideas for grants are submitted as Open Task into a Github repository by Barry or
 
 ## Application Life Cycle
 
-![lifecycle.png](../Image/lifecycle.png)
+![lifecycle.png](../Image/lifecycle.jpeg)
 
-The diagram above illustrates the general life cycle of a program application from the formation of an idea as an Open Task all the way to the execution of an initial milestone. Some of these details are clarified further here:
+The diagram above illustrates the general life cycle of a program application from the formation of an idea as an Open Task RFP all the way to the execution of an initial milestone. Some of these details are clarified further here:
 
-1. **Idea Sourcing and Open Task**
-    1. Barry and PSE research team member can add their ideas directly to this [Open Task List](./Open-Task-List.md)
-    2. The format of these Open Task is yet to be determined, but there are industry standard templates that EcoDev will build on top of. We will draft an Open Task template based on feedback from the wider PSE team.
+1. **Idea Sourcing and Open Task RFP**
+    1. Barry and PSE research team member can add their ideas directly to this [Open Task List RFP](./Open-Task-RFP-List.md)
+    2. The format of these Open Task RFP is yet to be determined, but there are industry standard templates that EcoDev will build on top of. We will draft an Open Task RFP template based on feedback from the wider PSE team.
 2. **Applicant Selection**
-    1. Applicants will be solicited to evaluate the list of available Open Task and submit their proposal along with relevant milestones as an issue or PR to the [repo](https://github.com/NOOMA-42/sample-pse-small-grant).
+    1. Applicants will be solicited to evaluate the list of available Open Task RFP and submit their proposal along with relevant milestones as an issue.
     2. Applicants may refer to [application guidelines](#how-to-get-started).
-    3. In the case where multiple applicants are interested in the same Open Task, we shall consider one of the following options:
+    3. In the case where multiple applicants are interested in the same Open Task RFP, we shall consider one of the following options:
         1. Evaluate them at the same time (i.e. round-style with a deadline for submission).
         2. Evaluate them on a first-come first-serve basis.
         3. Other. We might have to consider these proposals on a case-by-case basis.

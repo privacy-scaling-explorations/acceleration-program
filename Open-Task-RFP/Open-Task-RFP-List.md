@@ -3,23 +3,23 @@
 If you are PSE research team member. Please submit your ideas below using the template. After uploading your idea, run this command to refresh the table of contents.
 
 ```shell
-cat ./Open-Task/Open-Task-List.md | ./gh-md-toc - > ./Open-Task/table-of-contents.md
+cat ./Open-Task-RFP/Open-Task-RFP-List.md | ./gh-md-toc - > ./Open-Task-RFP/table-of-contents.md
 ```
 
 P.S. `gh-md-toc` is an opensource software from [here](https://github.com/ekalinin/github-markdown-toc)
 
-## What Constitute an Ideal Open-Task?
+## What Constitute an Ideal Open Task RFP?
 
-The structure of this program’s Open-Task will include both bounty-style Open-Task and open-style Open-Task.
+The structure of this program’s Open-Task will include both bounty-style Open Task RFP and open-style Open Task RFP.
 
-For **bounty-style Open-Task**, we will list out specific ideas that we are seeking individuals to work on. Here are some examples of this type of Open-Task:
+For **bounty-style Open Task RFP**, we will list out specific ideas that we are seeking individuals to work on. Here are some examples of this type of Open Task RFP:
 
 - Create a Halo2 tutorial.
 - Snark mobile proving kit.
 
     Make a Halo2 aggregation toolbox: a simple tool to let ppl merge proofs, prove them, and make a verifier.
 
-For **open-style Open-Task**, we will list out relatively open questions that we are seeking individuals to explore further with. Here are some examples of this type of Open-Task:
+For **open-style Open Task RFP**, we will list out relatively open questions that we are seeking individuals to explore further with. Here are some examples of this type of Open Task RFP:
 
 - Differential privacy projects.
 
@@ -38,15 +38,38 @@ For the initial iterations of this program, **we will start with the more specif
 ```markdown
 ### Title (Project Name if any)
 
-- Description: (2-5+ sen`tences)
-- Expected outcome:
-- Recommended Skills:
-- Grant Liason(s): (Name, github, email)
-- Expected project size: (Hours)
-- Difficulty: (Easy, Medium, or Hard)
-- Tag: (Lookup Argument, FHE, MPC, etc)
-- Upstream Issue (URL):
-- Submission (Update) Date: 
+### Open Task RFP for [Project Title]
+
+#### Executive Summary
+
+- Project Overview: Briefly describe what the project is about and its primary objectives.
+  
+#### Project Details
+
+- Scope of Work: Outline the specific tasks, milestones, and deliverables expected from this project.
+- Expected Outcomes: Clearly state what successful completion of the project looks like.
+- Technical Requirements: List any specific technologies, frameworks, or tools that will be needed.
+
+#### Qualifications
+
+- Skills Required: Detail the skills and experience that would make a candidate well-suited for this project.
+- Preferred Qualifications: Any additional skills or experience that would be a plus.
+
+#### Administrative Details
+
+- Grant Liaison(s): Name, GitHub, email of the person(s) responsible for evaluating and keeping track of this project.
+- Estimated Project Duration: Timeframe for project completion, including any key deadlines.
+- Project Complexity: Rate the project's difficulty level as Easy, Medium, or Hard. Explain the reasons for this.
+
+#### Additional Information
+
+- Relevant Tags: Keywords to help categorize the project (e.g., FHE, MPC, ZKPs).
+- Reference Material: Links to any upstream issues, documentation, or other resources that provide more context.
+
+#### Submission Details
+
+- Proposal Deadline: Specify the last date for proposal submissions.
+- Submission Instructions: Explain how and where to submit proposals.
 ```
 
 ---
