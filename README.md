@@ -27,7 +27,7 @@ an awarded grant.
 
 ## How to Get Started
 
-1. See the [Open Task RFP List](../Doc/Open-Task-RFP-List.md)
+1. See the [Open Task RFP List](./Doc/Open-Task-RFP-List.md)
 2. Apply on GitHub through sending issue and **follow the template**.
 3. Wait for grant liaison pick up the application and review
 4. Submit and update your deliverable in the dedicated form on every milestones
