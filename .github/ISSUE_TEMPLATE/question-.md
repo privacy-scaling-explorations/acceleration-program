@@ -1,5 +1,5 @@
 ---
-name: 'Question '
+name: 'Question'
 about: Raise question about how to apply, open task
 title: ''
 labels: question

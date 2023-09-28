@@ -1,6 +1,6 @@
 ---
-name: Add a Open Task RFP (For PSE member)
-about: Follow the template
+name: Open Task RFP by PSE member
+about: Add a Open Task RFP
 title: ''
 labels: ''
 assignees: ''
