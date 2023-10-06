@@ -1,3 +1,21 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Project Ideas](#project-ideas)
+  - [What Constitute an Ideal Open Task RFP?](#what-constitute-an-ideal-open-task-rfp)
+  - [Open Task RFP List](#open-task-rfp-list)
+    - [Mobile GPU Prover](#mobile-gpu-prover)
+    - [RSA GitHub wallets POC](#rsa-github-wallets-poc)
+    - [Quantum computer canary and safe exit](#quantum-computer-canary-and-safe-exit)
+    - [Plonk by hand , Nova by hand](#plonk-by-hand--nova-by-hand)
+    - [Snark mobile proving kit](#snark-mobile-proving-kit)
+    - [A snark to prove that below a number X there are y prime numbers and no more](#a-snark-to-prove-that-below-a-number-x-there-are-y-prime-numbers-and-no-more)
+    - [halo2 aggregation toolbox](#halo2-aggregation-toolbox)
+    - [halo2 soundness bugs examples](#halo2-soundness-bugs-examples)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Project Ideas
 
 If you are PSE research team member. Please submit your ideas by sending an issue
