@@ -3,121 +3,75 @@
 
 - [Open Task RFP List](#open-task-rfp-list)
     - [Mobile GPU Prover](#mobile-gpu-prover)
-    - [RSA GitHub wallets POC](#rsa-github-wallets-poc)
-    - [Quantum computer canary and safe exit](#quantum-computer-canary-and-safe-exit)
-    - [Plonk by hand , Nova by hand](#plonk-by-hand--nova-by-hand)
-    - [Snark mobile proving kit](#snark-mobile-proving-kit)
-    - [A snark to prove that below a number X there are y prime numbers and no more](#a-snark-to-prove-that-below-a-number-x-there-are-y-prime-numbers-and-no-more)
-    - [halo2 aggregation toolbox](#halo2-aggregation-toolbox)
-    - [halo2 soundness bugs examples](#halo2-soundness-bugs-examples)
+    - [RSA GitHub Wallets POC](#rsa-github-wallets-poc)
+    - [Quantum Computer Canary and Safe Exit](#quantum-computer-canary-and-safe-exit)
+    - [PLONK by hand, Nova by hand](#plonk-by-hand-nova-by-hand)
+    - [Mobile SNARK Proving Kit](#mobile-snark-proving-kit)
+    - [A SNARK to prove X prime numbers exist below Y](#a-snark-to-prove-x-prime-numbers-exist-below-y)
+    - [Halo2 Aggregation Toolbox](#halo2-aggregation-toolbox)
+    - [Halo2 Soundness Bug Examples](#halo2-soundness-bug-examples)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 # Open Task RFP List
 
-If you are PSE research team member. Please submit your ideas by sending an issue
-, where you can follow the template.
+If you're a PSE research team member, please submit your ideas by creating an issue and follow the provided template.
 
 ### Mobile GPU Prover
+- **Description:** Enable msm to work on a mobile GPU.
+- **Recommended Skills:** Rust, CUDA
+- **Grant Liason(s):** (Name, github, email)
+- **Tag:** Mobile
+- **Submission (Update) Date:** 2023/09/13
 
-- Description: make an msm work on mobile GPU.
-- Expected outcome:
-- Recommended Skills: Rust, CUDA
-- Grant Liason(s): (Name, github, email)
-- Expected project size: (Hours)
-- Difficulty: (Easy, Medium, or Hard)
-- Tag: Mobile
-- Upstream Issue (URL): N/A
-- Submission (Update) Date: 2023/09/13
+### RSA GitHub Wallets POC
+- **Description:** Enable transfers using git commits and pull requests. Continuously update the state of the repo via integration.
+- **Recommended Skills:** Rust, CUDA
+- **Grant Liason(s):** (Name, github, email)
+- **Tag:** Mobile
+- **Submission (Update) Date:** 2023/09/13
 
-### RSA GitHub wallets POC
+### Quantum Computer Canary and Safe Exit
+- **Description:** Implement transfers using git commits and pull requests. Ensure continuous updating of the repo's state via integration.
+- **Recommended Skills:** Rust, CUDA
+- **Grant Liason(s):** (Name, github, email)
+- **Tag:** Mobile
+- **Submission (Update) Date:** 2023/09/13
 
-- Description: Make transfers with gitcommits and pill requests
-  Update stare of repo via continuous integration
-- Expected outcome:
-- Recommended Skills: Rust, CUDA
-- Grant Liason(s): (Name, github, email)
-- Expected project size: (Hours)
-- Difficulty: (Easy, Medium, or Hard)
-- Tag: Mobile
-- Upstream Issue (URL): N/A
-- Submission (Update) Date: 2023/09/13
+### PLONK by hand, Nova by hand
+- **Description:** Provide an implementation/tutorial for individuals to self-construct Plonk, Nova, and related topics.
+- **Recommended Skills:** Cryptography
+- **Grant Liason(s):** (Name, github, email)
+- **Tag:** Tutorial
+- **Submission (Update) Date:** 2023/09/21
 
-### Quantum computer canary and safe exit
+### Mobile SNARK Proving Kit
+- **Description:** Develop a mobile-friendly tool akin to websnark, harnessing GPU and TPU for rapid proof generation.
+- **Recommended Skills:** Cryptography
+- **Grant Liason(s):** (Name, github, email)
+- **Tag:** Tutorial
+- **Submission (Update) Date:** 2023/09/21
 
-- Description: Make transfers with gitcommits and pill requests
-  Update stare of repo via continuous integration
-- Expected outcome:
-- Recommended Skills: Rust, CUDA
-- Grant Liason(s): (Name, github, email)
-- Expected project size: (Hours)
-- Difficulty: (Easy, Medium, or Hard)
-- Tag: Mobile
-- Upstream Issue (URL): N/A
-- Submission (Update) Date: 2023/09/13
+### A SNARK to prove X prime numbers exist below Y
+- **Description:** This project may resemble the creation of a proof of unsat.
+- **Recommended Skills:** Cryptography
+- **Grant Liason(s):** (Name, github, email)
+- **Tag:** Cryptography
+- **Submission (Update) Date:** 2023/09/21
 
-### Plonk by hand , Nova by hand
+### Halo2 Aggregation Toolbox
+- **Description:** Create a user-friendly halo2 aggregation toolbox, enabling users to merge proofs, verify them, and produce verifiers.
+- **Recommended Skills:** halo2
+- **Grant Liason(s):** (Name, github, email)
+- **Tag:** Tooling
+- **Submission (Update) Date:** 2023/09/21
 
-- Description: An implementation / tutorial that ppl can build by themselves
-  plonk / nova / other stuff
-- Expected outcome:
-- Recommended Skills: Cryptography
-- Grant Liason(s): (Name, github, email)
-- Expected project size: (Hours)
-- Difficulty: (Easy, Medium, or Hard)
-- Tag: Tutorial
-- Upstream Issue (URL): N/A
-- Submission (Update) Date: 2023/09/21
-
-### Snark mobile proving kit
-
-- Description: Like websnark for mobile using GPU , tpu to make proofs asap
-- Expected outcome:
-- Recommended Skills: Cryptography
-- Grant Liason(s): (Name, github, email)
-- Expected project size: (Hours)
-- Difficulty: (Easy, Medium, or Hard)
-- Tag: Tutorial
-- Upstream Issue (URL): N/A
-- Submission (Update) Date: 2023/09/21
-
-### A snark to prove that below a number X there are y prime numbers and no more
-
-- Description: Maybe this is similar to doing a proof of unsat
-- Expected outcome:
-- Recommended Skills: Cryptography
-- Grant Liason(s): (Name, github, email)
-- Expected project size: (Hours)
-- Difficulty: (Easy, Medium, or Hard)
-- Tag: Cryptography
-- Upstream Issue (URL): N/A
-- Submission (Update) Date: 2023/09/21
-
-### halo2 aggregation toolbox
-
-- Description: make a halo2 aggregation toolbox just a simple tool to let ppl
-  merge proofs , prove them and make verifier
-- Expected outcome:
-- Recommended Skills: halo2
-- Grant Liason(s): (Name, github, email)
-- Expected project size: (Hours)
-- Difficulty: (Easy, Medium, or Hard)
-- Tag: Tooling
-- Upstream Issue (URL): N/A
-- Submission (Update) Date: 2023/09/21
-
-### halo2 soundness bugs examples
-
-- Description: Create a repository with small halo2 circuits where each one has
-  a different soundness bug. Add exploiting example for each. This can be useful to:
-  Train people to understand the bugs to avoid them
-  Train people to spot the bugs. Refer to this url:
-  https://github.com/0xPARC/zk-bug-tracker#common-vulnerabilities-header
-- Expected outcome:
-- Recommended Skills: halo2
-- Grant Liason(s): ed255
-- Expected project size: (Hours)
-- Difficulty: (Easy, Medium, or Hard)
-- Tag: Tooling
-- Upstream Issue (URL): N/A
-- Submission (Update) Date: 2023/09/21
+### Halo2 Soundness Bug Examples
+- **Description:** Establish a repository featuring small halo2 circuits, each presenting a unique soundness bug. Each entry should come with an exploiting example to:
+  - Educate users on recognizing and understanding these bugs.
+  - Advise on avoidance strategies.
+  - [Reference link](https://github.com/0xPARC/zk-bug-tracker#common-vulnerabilities-header)
+- **Recommended Skills:** halo2
+- **Grant Liason(s):** ed255
+- **Tag:** Tooling
+- **Submission (Update) Date:** 2023/09/21
