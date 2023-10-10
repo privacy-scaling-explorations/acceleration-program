@@ -37,5 +37,5 @@ an awarded grant.
 
 ## Learn More About Detail
 
-1. Learn more about program purpose, application lifecycle in [Guide.md](./Doc/Guide.md)
+1. Learn more about program purpose, application lifecycle in [Guide.md](./Doc/Applicant-Guide.md)
 2. For PSE research team member, follow the guide in [Liaison Guide.md](./Doc/Grant-Liaison-Guide.md)
