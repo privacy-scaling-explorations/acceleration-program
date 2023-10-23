@@ -1,6 +1,6 @@
 ---
-name: Open Task RFP by PSE member
-about: Add a Open Task RFP
+name: Open Task RFP
+about: For PSE member, add a Open Task RFP.
 title: ''
 labels: ''
 assignees: ''
@@ -15,6 +15,7 @@ assignees: ''
   
 #### Project Details
 
+- Motivation: 
 - Scope of Work: Outline the specific tasks, milestones, and deliverables expected from this project.
 - Expected Outcomes: Clearly state what successful completion of the project looks like.
 - Technical Requirements: List any specific technologies, frameworks, or tools that will be needed.

@@ -1,6 +1,6 @@
 ---
-name: Proposal by Applicant
-about: Raise a proposal to open task
+name: Proposal
+about: For applicant, submit a proposal to open task
 title: ''
 labels: ''
 assignees: ''
@@ -59,12 +59,10 @@ For each milestone:
 ### Overview
 * **Total Estimated Duration:** Duration of the whole project
 * **Full-time equivalent (FTE):**  Workload of an employed person ([see](https://en.wikipedia.org/wiki/Full-time_equivalent)) 
-* **Total Costs:** Amount of Payment for the whole project.
 
 ### Milestone 1 Example Application V1
 * **Estimated Duration:** 1 month
 * **FTE:**  1
-* **Costs:** $5,000
 * **Estimated delivery date**: Feb 21st 2022
 
 #### Deliverables and Specifications
