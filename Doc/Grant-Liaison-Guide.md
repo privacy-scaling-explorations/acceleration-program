@@ -10,7 +10,7 @@
 
 ## Purpose
 
-The purpose of this accleration program is to help enable the potential of
+The purpose of this acceleration program is to help enable the potential of
 those who recently started their journey in the world of ZKP/FHE/lookup/etc.
 Specifically, our goal is to:
 
@@ -54,7 +54,7 @@ of an initial milestone. Some of these details are clarified further here:
             1. If all the applicants meet the criteria, we might consider grant
             multiple applicants.
 3. **Grant Liaison Matching**
-    1. Internally we maintain an grant liaison availability list and their
+    1. Internally we maintain a grant liaison availability list and their
     domain expertise along side of their names. EcoDev will work with leadership
     and project leads to determine the appropriate candidate to be an evaluator.
 4. **Milestone Completion and Funding**
