@@ -11,7 +11,7 @@
 
 ## Program Overview
 
-Accleration program is to help enable the potential of those who recently
+Acceleration program is to help enable the potential of those who recently
 started their journey in the world of ZKP/FHE/lookup/etc. Specifically, our goal
 is to:
 
