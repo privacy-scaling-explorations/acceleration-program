@@ -1,6 +1,6 @@
 ---
-name: Proposal
-about: For applicant, submit a proposal to open task
+name: Proposal to work on an Open Task
+about: For applicants to submit a proposal to work on a specific Open Task.
 title: ''
 labels: ''
 assignees: ''
