@@ -1,6 +1,6 @@
 ---
-name: Open Task RFP
-about: For PSE member, add a Open Task RFP.
+name: Open Task Submission
+about: For PSE members that want to add an Open Task for the community to work on.
 title: ''
 labels: ''
 assignees: ''
