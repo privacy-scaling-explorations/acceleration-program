@@ -59,6 +59,8 @@ For each milestone:
 ### Overview
 * **Total Estimated Duration:** Duration of the whole project
 * **Full-time equivalent (FTE):**  Workload of an employed person ([see](https://en.wikipedia.org/wiki/Full-time_equivalent)) 
+* Expected Start Date: FILL IN DATE
+* Expected End Date: FILL IN DATE
 
 ### Milestone 1 Example Application V1
 * **Estimated Duration:** 1 month
