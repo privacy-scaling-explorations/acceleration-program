@@ -3,6 +3,7 @@
 <p align="center">
   <img width=100% src="./Image/PSE_cover.jpeg">
     <br/><br/>
+  <img src="https://img.shields.io/badge/Round-1-green?style=for-the-badge">  
   <a href="https://discord.gg/pse"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://twitter.com/PrivacyScaling"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
   <a href="https://www.youtube.com/@privacyscalingexplorations"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
@@ -35,11 +36,17 @@ an awarded grant.
 6. Get funding at every milestone completion.
 7. Shall you have any question, send a Question issue on GitHub
 
+## Round Based Application
+
+* Our program operates on a round-based application system, focusing on specific open tasks for each round.
+* Application Period: December 1, 2023, to February 28, 2024
+
 ## Learn More About Detail
 
-1. Learn more about program purpose, application lifecycle in [Guide.md](./Doc/Applicant-Guide.md)
-2. For PSE research team member, follow the guide in [Liaison Guide.md](./Doc/Grant-Liaison-Guide.md)
-3. You can find closed task and its implementation [here](https://github.com/privacy-scaling-explorations/acceleration-program/issues?q=is%3Aissue+is%3Aclosed)
+* Learn more about program purpose, application lifecycle in [Guide.md](./Doc/Applicant-Guide.md)
+* For PSE research team member, follow the guide in [Liaison Guide.md](./Doc/Grant-Liaison-Guide.md)
+* You can find closed task and its implementation [here](https://github.com/privacy-scaling-explorations/acceleration-program/issues?q=is%3Aissue+is%3Aclosed)
 
 ## Support
+
 Mailbox for Private Inquiry: adrian@ethereum.org

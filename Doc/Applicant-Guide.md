@@ -55,6 +55,14 @@ of an initial milestone. Some of these details are clarified further here:
     2. Following milestones will be awarded larger amounts.
     3. Stale issues will be closed by grant liaison or a bot.
 
+## Round Based Application
+
+* Our program operates on a round-based application system, focusing on specific open tasks for each round.
+* You can see a round label on each open task issue.
+<img src="../Image/round.png" width="200"/>
+
+* Refer to [current round period](https://github.com/privacy-scaling-explorations/acceleration-program#Round-Based-Application)
+
 ## Operational Platform
 
 For the operation of this program, we will primarily utilize a Github repository

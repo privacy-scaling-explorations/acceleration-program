@@ -9,7 +9,7 @@ assignees: ''
 
 # General Grant Proposal
 
-* **Project:** The name of the project, Please also provide a link to open task item, for example [Mobile GPU Prover](https://github.com/privacy-scaling-explorations/acceleration-program/blob/main/Open-Task/Open-Task-List.md#mobile-gpu-prover)
+* **Project:** The name of the project, Please also provide a link to open task item, for example #14 (USE GITHUB DEFAULT LINK TO OPEN TASK ITEM)
 
 ## Project Overview :page_facing_up: 
 
