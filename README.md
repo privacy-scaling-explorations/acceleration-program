@@ -39,6 +39,7 @@ an awarded grant.
 ## Round Based Application
 
 * Our program operates on a round-based application system, focusing on specific open tasks for each round.
+* Current round: **Round 1** 
 * Application Period: December 1, 2023, to February 28, 2024
 
 ## Learn More About Detail
