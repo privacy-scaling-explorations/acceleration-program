@@ -55,7 +55,7 @@ of an initial milestone. Some of these details are clarified further here:
             multiple applicants.
 3. **Grant Liaison Matching**
     1. Internally we maintain a grant liaison availability list and their
-    domain expertise along side of their names. EcoDev will work with leadership
+    domain expertise alongside their names. EcoDev will work with leadership
     and project leads to determine the appropriate candidate to be an evaluator.
 4. **Milestone Completion and Funding**
     1. Grantee will receive a small amount of funding after the completion of
