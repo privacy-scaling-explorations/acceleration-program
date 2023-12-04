@@ -21,7 +21,7 @@ is to:
 
 Project ideas are submitted as Open Task RFP into a Github repository by PSE
 Research Team. Potential applicant will then submit proposals to be evaluated
-by “Grant Liaisons”. A grant liaison will not only evaluating the initial
+by “Grant Liaisons”. A grant liaison will not only be evaluating the initial
 proposal, but will also be supervising milestone completion, approving
 disbursement of funds, ongoing tracking/advising and general oversight of
 an awarded grant.
@@ -29,7 +29,7 @@ an awarded grant.
 ## How to Get Started
 
 1. See the [Open Task RFP List](https://github.com/privacy-scaling-explorations/acceleration-program/issues?q=is%3Aopen+is%3Aissue+-label%3A%22Application+Proposal%22+-label%3A%22WIP%22+)
-2. Apply on GitHub through sending issue and **follow the template**.
+2. Apply on GitHub by sending issue and **follow the template**.
 3. Wait for grant liaison pick up the application and review
 4. Submit and update your deliverable in the dedicated form on every milestones
 5. Request for review by grant liaison.
