@@ -28,7 +28,7 @@ Provide as much detail as possible about the project's expected final state.
 
 ### Team members
 * Names of team members
-* Email
+* Email (Required)
 * Telegram handle
 * Discord handle
 
