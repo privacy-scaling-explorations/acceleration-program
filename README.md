@@ -26,6 +26,9 @@ proposal, but will also be supervising milestone completion, approving
 disbursement of funds, ongoing tracking/advising and general oversight of
 an awarded grant.
 
+> [!IMPORTANT]
+> This program target beginner to intermediate developers and zk-researchers
+
 ## How to Get Started
 
 1. See the [Open Task RFP List](https://github.com/privacy-scaling-explorations/acceleration-program/issues?q=is%3Aopen+is%3Aissue+-label%3A%22Application+Proposal%22+-label%3A%22WIP%22+)
