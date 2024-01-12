@@ -31,13 +31,24 @@ an awarded grant.
 
 ## How to Get Started
 
+### Apply for an Open Task
 1. See the [Open Task RFP List](https://github.com/privacy-scaling-explorations/acceleration-program/issues?q=is%3Aopen+is%3Aissue+-label%3A%22Application+Proposal%22+-label%3A%22WIP%22+)
-2. Apply on GitHub by sending issue and **follow the template**.
+2. Apply on GitHub by sending issue and **follow the [template](https://github.com/privacy-scaling-explorations/acceleration-program/issues/new?assignees=&labels=&projects=&template=proposal-for-applicant.md&title=)**.
 3. Wait for grant liaison pick up the application and review
 4. Submit and update your deliverable in the dedicated form on every milestones
 5. Request for review by grant liaison.
 6. Get funding at every milestone completion.
 7. Shall you have any question, send a Question issue on GitHub
+
+### Submit your own idea as Open Task
+1. Apply on GitHub by sending issue and **follow the [template](https://github.com/privacy-scaling-explorations/acceleration-program/issues/new?assignees=&labels=&projects=&template=propose-your-open-task.md&title=)**.
+2. Wait for grant liaison pick up the application and review. This review ensure your idea align with the program goal.
+3. Once approved, submit a **separate application** with this [template](https://github.com/privacy-scaling-explorations/acceleration-program/issues/new?assignees=&labels=&projects=&template=proposal-for-applicant.md&title=)
+4. Wait for grant liaison pick up the application and review
+5. Submit and update your deliverable in the dedicated form on every milestones
+6. Request for review by grant liaison.
+7. Get funding at every milestone completion.
+8. Shall you have any question, send a Question issue on GitHub
 
 ## Round Based Application
 
