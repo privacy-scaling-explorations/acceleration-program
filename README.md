@@ -27,7 +27,7 @@ disbursement of funds, ongoing tracking/advising and general oversight of
 an awarded grant.
 
 > [!IMPORTANT]
-> This program target beginner to intermediate developers and zk-researchers
+> This program target beginner to intermediate developers and zk-researchers. The reward is not as high as normal grant e.g. EF/PSE/etc
 
 ## How to Get Started
 
