@@ -27,7 +27,7 @@ disbursement of funds, ongoing tracking/advising and general oversight of
 an awarded grant.
 
 > [!IMPORTANT]
-> This program target beginner to intermediate developers and zk-researchers. The reward is not as high as normal grant e.g. EF/PSE/etc
+> This program target developers and zk-researchers both at beginner to intermediate level. For applicants not in these categories, please consider applying for the [Ethereum Support Program Grant](https://esp.ethereum.foundation/)
 
 ## How to Get Started
 
