@@ -58,6 +58,7 @@ For each milestone:
 
 ### Overview
 * **Total Estimated Duration:** Duration of the whole project
+* **Total Estimated Working Hours:** XXX hr
 * **Full-time equivalent (FTE):**  Workload of an employed person ([see](https://en.wikipedia.org/wiki/Full-time_equivalent)) 
 * Expected Start Date: FILL IN DATE
 * Expected End Date: FILL IN DATE
