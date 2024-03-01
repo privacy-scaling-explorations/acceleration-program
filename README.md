@@ -35,6 +35,7 @@ The **PSE Acceleration Program** is dedicated to empowering individuals in the f
 
 **To Submit Your Own Idea:**
 1. Submit your idea using this [template](https://github.com/privacy-scaling-explorations/acceleration-program/issues/new?assignees=&labels=&projects=&template=propose-your-open-task.md&title=).
+2. You can look into this [idea pool](./Doc/Idea%20Pool.md) and find one and submit here.
 
 ## 📘 Program Overview
 
