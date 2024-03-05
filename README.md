@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/privacy-scaling-explorations/acceleration-program#Round-Based-Application"><img src="https://img.shields.io/badge/Round-1-green?style=flat-square"></a>
+  <a href="https://github.com/privacy-scaling-explorations/acceleration-program#Round-Based-Application"><img src="https://img.shields.io/badge/Round-2-green?style=flat-square"></a>
   <a href="https://discord.gg/pse"><img src="https://img.shields.io/discord/901152454077452399?color=7289da&style=flat-square&label=Discord&logo=discord&logoColor=white"></a>
   <a href="https://twitter.com/PrivacyScaling"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white"></a>
   <a href="https://www.youtube.com/@privacyscalingexplorations"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat-square&logo=YouTube&logoColor=white"></a>
