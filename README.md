@@ -54,5 +54,5 @@ For frequently asked questions about the application process, eligibility, and m
 ## ✅ Support
 
 - For private inquiries, email us at: adrian@ethereum.org
-- Join our Discord for live discussions: [discord.gg/pse](https://discord.gg/pse)
+- Join our Discord for live discussions: [discord.gg/pse](https://discord.com/channels/943612659163602974/1213770783223189534)
 - Follow us on Twitter for updates: [@PrivacyScaling](https://twitter.com/PrivacyScaling)

@@ -21,3 +21,8 @@ For detailed information on getting started, application processes, submissions,
 As questions are asked and answered, we will periodically update this document to reflect the most common inquiries and provide valuable information to our community. Be sure to check back for updates and join our Discord to stay engaged with the latest discussions.
 
 Thank you for your interest and participation in the PSE Acceleration Program. We look forward to growing and learning with you!
+
+## How To Determin Whether a Project Has Been Work on at Present?
+
+If you come across a “proposal pending” tag, check if the proposal is still in its early stages. In such cases, you may want to submit your own proposal to compete.
+Conversely, if a proposal has already undergone an interview or evaluation process, the competition window may have closed.
