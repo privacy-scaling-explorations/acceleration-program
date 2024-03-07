@@ -30,3 +30,14 @@ Conversely, if a proposal has already undergone an interview or evaluation proce
 ## Does This Deadline of a Round Affect the Completion of Open Tasks?
 
 This means you can submit proposals up to this date. However, the timeframe to compete with other proposals may not extend for the full three months. The evaluation process will begin once there are no further proposals submitted within a certain timeframe. It's important to note that your work on the tasks may continue beyond the end of the round, depending on the specific details of the task.
+
+## Who Funds Acceleration Program?
+
+These open tasks are funded by Privacy Scaling Explorations. 
+
+## How Many Proposals Are Going to be Accepted per "Task"?
+
+Generally one proposal will be accepted. However,
+1. you can compete with other proposals during the proposal stage.
+2. or you can simply work on other tasks
+3. or all the applicants can form a team
