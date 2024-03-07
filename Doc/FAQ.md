@@ -26,3 +26,7 @@ Thank you for your interest and participation in the PSE Acceleration Program. W
 
 If you come across a “proposal pending” tag, check if the proposal is still in its early stages. In such cases, you may want to submit your own proposal to compete.
 Conversely, if a proposal has already undergone an interview or evaluation process, the competition window may have closed.
+
+## Does This Deadline of a Round Affect the Completion of Open Tasks?
+
+This means you can submit proposals up to this date. However, the timeframe to compete with other proposals may not extend for the full three months. The evaluation process will begin once there are no further proposals submitted within a certain timeframe. It's important to note that your work on the tasks may continue beyond the end of the round, depending on the specific details of the task.
