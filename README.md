@@ -30,7 +30,7 @@ The **PSE Acceleration Program** is dedicated to empowering individuals in the f
 ## 🚀 How to Get Started
 
 **To Apply for an Open Task:**
-1. Explore the [Open Task RFP List](https://github.com/privacy-scaling-explorations/acceleration-program/issues?q=is%3Aopen+is%3Aissue+-label%3A%22Application+Proposal%22+-label%3A%22WIP%22+).
+1. Explore the [Available Open Task RFP List in Round 2](https://github.com/privacy-scaling-explorations/acceleration-program/issues?q=is%3Aopen+is%3Aissue+label%3ARound2).
 2. Apply using the [template](https://github.com/privacy-scaling-explorations/acceleration-program/issues/new?assignees=&labels=&projects=&template=proposal-for-applicant.md&title=).
 
 **To Submit Your Own Idea:**

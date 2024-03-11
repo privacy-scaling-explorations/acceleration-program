@@ -41,3 +41,7 @@ Generally one proposal will be accepted. However,
 1. you can compete with other proposals during the proposal stage.
 2. or you can simply work on other tasks
 3. or all the applicants can form a team
+
+## What is the Selection Criteria as Applicants?
+
+Our selection criteria are tailored for young university students, active technical community members, and early-career professionals in cryptography and blockchain, focusing on those with a strong interest in advancing their knowledge and contributions in the field.

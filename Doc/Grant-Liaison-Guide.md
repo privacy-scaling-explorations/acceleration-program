@@ -69,7 +69,3 @@ For the operation of this program, we will primarily utilize a Github repository
 for managing documents and staging of the grant proposals, grantees, and their
 progress. Stakeholders involved can utilize Github issues and pull requests to
 comment and collaborate.
-
-## Selection Criteria
-
-## FAQs
