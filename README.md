@@ -32,7 +32,7 @@ an awarded grant.
 ## How to Get Started
 
 ### Apply for an Open Task
-1. See the [Open Task RFP List](https://github.com/privacy-scaling-explorations/acceleration-program/issues?q=is%3Aopen+is%3Aissue+-label%3A%22Application+Proposal%22+-label%3A%22WIP%22+)
+1. See the [Available Open Task RFP List in Round 2](https://github.com/privacy-scaling-explorations/acceleration-program/issues?q=is%3Aopen+is%3Aissue+label%3ARound2)
 2. Apply on GitHub by sending issue and **follow the [template](https://github.com/privacy-scaling-explorations/acceleration-program/issues/new?assignees=&labels=&projects=&template=proposal-for-applicant.md&title=)**.
 3. Wait for grant liaison pick up the application and review
 4. Submit and update your deliverable in the dedicated form on every milestones

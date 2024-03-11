@@ -72,4 +72,4 @@ comment and collaborate.
 
 ## Selection Criteria
 
-## FAQs
+"Our selection criteria are tailored for young university students, active technical community members, and early-career professionals in cryptography and blockchain, focusing on those with a strong interest in advancing their knowledge and contributions in the field."
