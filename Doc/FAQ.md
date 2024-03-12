@@ -45,3 +45,7 @@ Generally one proposal will be accepted. However,
 ## What is the Selection Criteria as Applicants?
 
 Our selection criteria are tailored for young university students, active technical community members, and early-career professionals in cryptography and blockchain, focusing on those with a strong interest in advancing their knowledge and contributions in the field.
+
+## Can I Apply for Multiple Tasks at the Same Time?
+
+No, simultaneous applications for multiple tasks are not permitted. You are only eligible to apply for a new task once you have reached the final stage of your current task. This ensures focused and dedicated efforts towards completing each task effectively.
