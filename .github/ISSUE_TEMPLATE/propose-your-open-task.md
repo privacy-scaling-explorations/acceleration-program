@@ -10,7 +10,7 @@ assignees: ''
 > [!IMPORTANT]
 > A proposal will go through a review process by a PSE to ensure the quality of the task and alignment with the acceleration program mission. Please be patient and wait for the review to complete.
 
-### Open Task RFP for [Project Title]
+### Self Proposed Open Task: [Project Title]
 
 #### Executive Summary
 

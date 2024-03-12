@@ -21,3 +21,27 @@ For detailed information on getting started, application processes, submissions,
 As questions are asked and answered, we will periodically update this document to reflect the most common inquiries and provide valuable information to our community. Be sure to check back for updates and join our Discord to stay engaged with the latest discussions.
 
 Thank you for your interest and participation in the PSE Acceleration Program. We look forward to growing and learning with you!
+
+## How To Determin Whether a Project Has Been Work on at Present?
+
+If you come across a “proposal pending” tag, check if the proposal is still in its early stages. In such cases, you may want to submit your own proposal to compete.
+Conversely, if a proposal has already undergone an interview or evaluation process, the competition window may have closed.
+
+## Does This Deadline of a Round Affect the Completion of Open Tasks?
+
+This means you can submit proposals up to this date. However, the timeframe to compete with other proposals may not extend for the full three months. The evaluation process will begin once there are no further proposals submitted within a certain timeframe. It's important to note that your work on the tasks may continue beyond the end of the round, depending on the specific details of the task.
+
+## Who Funds Acceleration Program?
+
+These open tasks are funded by Privacy Scaling Explorations. 
+
+## How Many Proposals Are Going to be Accepted per "Task"?
+
+Generally one proposal will be accepted. However,
+1. you can compete with other proposals during the proposal stage.
+2. or you can simply work on other tasks
+3. or all the applicants can form a team
+
+## What is the Selection Criteria as Applicants?
+
+Our selection criteria are tailored for young university students, active technical community members, and early-career professionals in cryptography and blockchain, focusing on those with a strong interest in advancing their knowledge and contributions in the field.
