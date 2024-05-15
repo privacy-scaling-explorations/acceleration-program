@@ -49,3 +49,7 @@ Our selection criteria are tailored for young university students, active techni
 ## Can I Apply for Multiple Tasks at the Same Time?
 
 No, simultaneous applications for multiple tasks are not permitted. You are only eligible to apply for a new task once you have reached the final stage of your current task. This ensures focused and dedicated efforts towards completing each task effectively.
+
+# How to Decide the Budget Given the Complexity(medium) of the Project?
+
+There’s a predetermined pricing rate based on the complexity. There will be more info in a call between applicants and the PSE team after content wise evaluation.

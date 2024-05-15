@@ -7,6 +7,9 @@ assignees: ''
 
 ---
 
+> [!IMPORTANT]
+> Please review our [criteria of selection](../../Doc/FAQ.md#what-is-the-selection-criteria-as-applicants) before submitting your proposal.
+
 # General Grant Proposal
 
 * **Project:** The name of the project, Please also provide a link to open task item, for example #14 (USE GITHUB DEFAULT LINK TO OPEN TASK ITEM)
