@@ -43,8 +43,8 @@ Our program nurtures talent in ZKP, FHE, MPC, etc., aiming for applicants at beg
 
 ## 📅 Round-Based Application
 
-- **Current Round:** Round 2
-- **Application Period:** February 29, 2024, to May 31, 2024
+- **Current Round:** Round 3
+- **Application Period:** June 1, 2024, to Aug 31, 2024
 - Focused on specific open tasks for each round.
 
 ## ❓ FAQ
