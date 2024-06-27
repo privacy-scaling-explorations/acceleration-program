@@ -21,7 +21,7 @@ Thank you for your interest and participation in the PSE Acceleration Program. W
 
 ## Application Related Questions
 
-### How To Determin Whether a Project Has Been Work on at Present?
+### How To Determine Whether a Project Has Been Work on at Present?
 
 If you come across a “proposal pending” tag, check if the proposal is still in its early stages. In such cases, you may want to submit your own proposal to compete.
 Conversely, if a proposal has already undergone an interview or evaluation process, the competition window may have closed.
@@ -47,6 +47,10 @@ No, simultaneous applications for multiple tasks are not permitted. You are only
 
 
 ## Pricing Rate and Budget Related Questions
+
+### What is the Purpose of the Grants Issued as Part of the Program?
+
+The acceleration program is primarily an educational initiative aimed at "accelerating" practitioners by giving them challenges designed to help them learn and improve. The grants issued as part of the program should not be the primary reason to tackle issues and challenges.
 
 ### How to Decide the Budget Given the Complexity(medium) of the Project?
 
