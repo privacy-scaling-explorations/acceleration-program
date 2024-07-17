@@ -45,6 +45,12 @@ Our selection criteria are tailored for young university students, active techni
 
 No, simultaneous applications for multiple tasks are not permitted. You are only eligible to apply for a new task once you have reached the final stage of your current task. This ensures focused and dedicated efforts towards completing each task effectively.
 
+### Can I Work on My Proposal Before the Grant Agreement is Signed?
+
+Our legal team advises that grantees should not begin work on their grants until they have countersigned the grant agreement. This requirement may affect the acceleration program's timeline. Grantees must wait for the entire process to be completed before commencing their work. If the original starting and due dates become outdated due to this delay, grantees can communicate with their assigned evaluator to establish new, mutually agreeable dates.
+
+### What if my proposal is submitted close to the deadline?
+If your proposal is submitted very close to the deadline, it will automatically be considered in the next round of evaluations. You are welcome to continue refining and improving your proposal during this time.
 
 ## Pricing Rate and Budget Related Questions
 
@@ -65,3 +71,8 @@ We follow EF PeopleOp's grant amount guideline suggestion that we should not cha
 ## Who Funds Acceleration Program?
 
 These open tasks are funded by Privacy Scaling Explorations. 
+
+## What's the Difference Between the Acceleration Program and the Other Grants?
+
+The acceleration program typically offers smaller grants and is aimed at beginners who possess the skills to undertake cryptocurrency-related projects. For example, applicants should be familiar with zero-knowledge Domain Specific Languages (DSLs) or have an understanding of cryptography. Our goal is to help these individuals like students or early stage cryptography learner to advance by working on real-world project ideas.
+In contrast, other grant programs like ESP often require applicants to propose their own ideas, and the grant amounts can vary considerably.
