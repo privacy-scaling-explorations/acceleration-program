@@ -22,20 +22,28 @@ The **PSE Acceleration Program** is dedicated to empowering individuals in the f
 - [🌟 Welcome to the PSE Acceleration Program!](#-welcome-to-the-pse-acceleration-program)
 - [📚 Table of Contents](#-table-of-contents)
 - [🚀 How to Get Started](#-how-to-get-started)
+- [⚡️ Quick Links](#-quick-links)
 - [📘 Program Overview](#-program-overview)
 - [📅 Round-Based Application](#-round-based-application)
 - [❓ FAQ](#-faq)
 - [✅ Support](#-support)
+
+## ⚡️ Quick Links
+1. [Available Open Task RFP List in Round 3](https://github.com/privacy-scaling-explorations/acceleration-program/issues?q=is%3Aopen+is%3Aissue+label%3A%22Round+3%22+-label%3A%22Task+Be+Taken%22+).
+2. [Existing Proposal](https://github.com/privacy-scaling-explorations/acceleration-program/issues?q=label%3A%22Application+Proposal%22)
+3. [Existing Self Proposed Open Task](https://github.com/privacy-scaling-explorations/acceleration-program/issues?q=Self)
 
 ## 🚀 How to Get Started
 
 **To Apply for an Open Task:**
 1. Explore the [Available Open Task RFP List in Round 3](https://github.com/privacy-scaling-explorations/acceleration-program/issues?q=is%3Aopen+is%3Aissue+label%3A%22Round+3%22+-label%3A%22Task+Be+Taken%22+).
 2. Apply using the [template](https://github.com/privacy-scaling-explorations/acceleration-program/issues/new?assignees=&labels=&projects=&template=proposal-for-applicant.md&title=).
+3. Read our [FAQ section](./Doc/FAQ.md).
 
 **To Submit Your Own Idea:**
 1. Submit your idea using this [template](https://github.com/privacy-scaling-explorations/acceleration-program/issues/new?assignees=&labels=&projects=&template=propose-your-open-task.md&title=).
 2. You can look into this [idea pool](./Doc/Idea%20Pool.md) and find one and submit here.
+3. Read our [FAQ section](./Doc/FAQ.md).
 
 ## 📘 Program Overview
 
