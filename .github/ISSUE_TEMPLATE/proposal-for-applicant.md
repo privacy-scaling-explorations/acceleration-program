@@ -58,6 +58,7 @@ For each milestone:
 * Please note that we require documentation (e.g. tutorials, API specifications, architecture details) in each milestone. This ensures that the code can be widely used by the community.
 * Please provide a test suite, comprising unit and integration tests, along with a guide on how to run these.
 * Please indicate the milestone duration, as well as number of Full-Time Employees working on each milestone, and include the number of days along with their cost per day.
+* Please don't modify the template, since we use it for automatic tool to process the grant application.
 
 ### Overview
 * **Total Estimated Duration:** Duration of the whole project

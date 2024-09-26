@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/privacy-scaling-explorations/acceleration-program#Round-Based-Application"><img src="https://img.shields.io/badge/Round-3-green?style=flat-square"></a>
+  <a href="https://github.com/privacy-scaling-explorations/acceleration-program#Round-Based-Application"><img src="https://img.shields.io/badge/Round-4-green?style=flat-square"></a>
   <a href="https://discord.gg/pse"><img src="https://img.shields.io/discord/901152454077452399?color=7289da&style=flat-square&label=Discord&logo=discord&logoColor=white"></a>
   <a href="https://twitter.com/PrivacyScaling"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white"></a>
   <a href="https://www.youtube.com/@privacyscalingexplorations"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat-square&logo=YouTube&logoColor=white"></a>
@@ -29,20 +29,15 @@ The **PSE Acceleration Program** is dedicated to empowering individuals in the f
 - [✅ Support](#-support)
 
 ## ⚡️ Quick Links
-1. [Available Open Task RFP List in Round 3](https://github.com/privacy-scaling-explorations/acceleration-program/issues?q=is%3Aopen+is%3Aissue+label%3A%22Round+3%22+-label%3A%22Task+Be+Taken%22+).
+1. [Available Open Task RFP List in Round 4](https://github.com/privacy-scaling-explorations/acceleration-program/issues?q=is%3Aopen+is%3Aissue+label%3A%22Round+4%22+-label%3A%22Task+Be+Taken%22+).
 2. [Existing Proposal](https://github.com/privacy-scaling-explorations/acceleration-program/issues?q=label%3A%22Application+Proposal%22)
 3. [Existing Self Proposed Open Task](https://github.com/privacy-scaling-explorations/acceleration-program/issues?q=Self)
 
 ## 🚀 How to Get Started
 
 **To Apply for an Open Task:**
-1. Explore the [Available Open Task RFP List in Round 3](https://github.com/privacy-scaling-explorations/acceleration-program/issues?q=is%3Aopen+is%3Aissue+label%3A%22Round+3%22+-label%3A%22Task+Be+Taken%22+).
+1. Explore the [Available Open Task RFP List in Round 4](https://github.com/privacy-scaling-explorations/acceleration-program/issues?q=is%3Aopen+is%3Aissue+label%3A%22Round+4%22+-label%3A%22Task+Be+Taken%22+).
 2. Apply using the [template](https://github.com/privacy-scaling-explorations/acceleration-program/issues/new?assignees=&labels=&projects=&template=proposal-for-applicant.md&title=).
-3. Read our [FAQ section](./Doc/FAQ.md).
-
-**To Submit Your Own Idea:**
-1. Submit your idea using this [template](https://github.com/privacy-scaling-explorations/acceleration-program/issues/new?assignees=&labels=&projects=&template=propose-your-open-task.md&title=).
-2. You can look into this [idea pool](./Doc/Idea%20Pool.md) and find one and submit here.
 3. Read our [FAQ section](./Doc/FAQ.md).
 
 ## 📘 Program Overview
@@ -51,8 +46,8 @@ Our program nurtures talent in ZKP, FHE, MPC, etc., aiming for applicants at beg
 
 ## 📅 Round-Based Application
 
-- **Current Round:** Round 3
-- **Application Period:** June 1, 2024, to Aug 31, 2024
+- **Current Round:** Round 4
+- **Application Period:** Sep 1, 2024, to Dec 31, 2024
 - Focused on specific open tasks for each round.
 
 ## ❓ FAQ
